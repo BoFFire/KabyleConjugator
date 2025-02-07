@@ -42,14 +42,6 @@ Pour afficher la conjugaison d'un verbe (par exemple, pour le verbe `nadi`), uti
 python kabyleconjugator.py nadi
 ```
 
-**4. Exécuter le script**
-
-Pour afficher la conjugaison d'un verbe (par exemple, pour le verbe `nadi`), utilisez la commande suivante :
-
-```bash
-python kabyleconjugator.py nadi
-```
-
 ***Source***
 
 This `conjugation.json` file source is from : [DigitizedDallet](https://github.com/sferhah/DigitizedDallet) based on [amyag.com](https://www.amyag.com/)
