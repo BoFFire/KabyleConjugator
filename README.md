@@ -49,3 +49,7 @@ Pour afficher la conjugaison d'un verbe (par exemple, pour le verbe `nadi`), uti
 ```bash
 python kabyleconjugator.py nadi
 ```
+
+***Source***
+
+This `conjugation.json` file source is from : [DigitizedDallet](https://github.com/sferhah/DigitizedDallet) based on [amyag.com](https://www.amyag.com/)
